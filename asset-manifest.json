@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/genetic-algorithm-testing/static/css/main.f2fcb359.chunk.css",
+    "main.js": "/genetic-algorithm-testing/static/js/main.c7796641.chunk.js",
+    "main.js.map": "/genetic-algorithm-testing/static/js/main.c7796641.chunk.js.map",
+    "runtime~main.js": "/genetic-algorithm-testing/static/js/runtime~main.9d3c4c27.js",
+    "runtime~main.js.map": "/genetic-algorithm-testing/static/js/runtime~main.9d3c4c27.js.map",
+    "static/js/2.e334d4b8.chunk.js": "/genetic-algorithm-testing/static/js/2.e334d4b8.chunk.js",
+    "static/js/2.e334d4b8.chunk.js.map": "/genetic-algorithm-testing/static/js/2.e334d4b8.chunk.js.map",
+    "index.html": "/genetic-algorithm-testing/index.html",
+    "precache-manifest.2db3167c76a4a64e0e387471e9ed374b.js": "/genetic-algorithm-testing/precache-manifest.2db3167c76a4a64e0e387471e9ed374b.js",
+    "service-worker.js": "/genetic-algorithm-testing/service-worker.js",
+    "static/css/main.f2fcb359.chunk.css.map": "/genetic-algorithm-testing/static/css/main.f2fcb359.chunk.css.map"
+  }
+}
