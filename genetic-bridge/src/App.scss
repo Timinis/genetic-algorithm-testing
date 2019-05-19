@@ -1,0 +1,23 @@
+.App {
+  position: relative;
+  canvas {
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: auto;
+    width: 100%;
+    -webkit-transform: translate3d(0, 0, 0);
+    -moz-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
+  }
+
+  .step {
+    padding-left: 50vw;
+    padding-bottom: 100vh;
+    left: 50vw;
+    font-family: Courier New, Courier, monospace;
+    line-height: 18vh;
+    font-size: 30px;
+    font-weight: bold;
+  }
+}
